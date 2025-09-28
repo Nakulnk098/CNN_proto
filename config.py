@@ -1,0 +1,1 @@
+HF_TOKEN = "put_your_token_key"
